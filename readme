@@ -1,0 +1,16 @@
+T-Pot.zip contains data from a cloud-hosted honeypot deployment using a series of different cloud solutions such as DigitalOcean, AWS and Google, over the course of a month. 
+The data contains different regions and honeypots were hosted during different times to get a broader analysis.
+
+T-Pot.zip Contains:
+T-Pot Bang
+T-Pot Frankfurt
+T-Pot London
+T-Pot Toronto
+instance1-Europe
+instance2-taiwan
+instance3-us
+1week
+1weekFrankfurt
+1WeekToronto
+
+Each Folder contains various histograms, Source IPs and attacks by countries and ports.
